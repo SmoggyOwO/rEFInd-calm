@@ -2,7 +2,7 @@
 
 Minimal theme for the rEFInd boot manager
 
-![Screenshot](http://i.imgur.com/e7Zg8xI.png)
+![Screenshot](https://github.com/SmoggyOwO/rEFInd-calm/blob/main/screenshot.png)
 
 ## Installation
 
